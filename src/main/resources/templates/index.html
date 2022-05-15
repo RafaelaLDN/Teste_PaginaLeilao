@@ -1,0 +1,22 @@
+<html>
+	<head th:replace="~{base :: head}"></head>
+
+	<body>
+	<table id="tabela-leiloes" class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Nome</th>
+            <th scope="col">Data de abertura</th>
+            <th scope="col">Valor inicial</th>
+            <th scope="col">Usuario</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+		<div th:replace="~{base :: logo}"></div>
+
+		<div class="container">
+			<div th:replace="~{base :: titulo('Bem vindo ao projeto de leilão!')}"></div>
+		</div>
+	</body>
+</html>
