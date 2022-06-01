@@ -8,7 +8,6 @@
 
 <h1 align="center">Bem vindo(a) a <u>Pagina de leilao</u> ⚡</h1>
 
-<p align="center"><code>App para avaliação de filmes WEB responsivo</code></p>
 
 <div align="center">
 
